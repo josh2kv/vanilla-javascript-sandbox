@@ -1,1 +1,1 @@
-# editable-polygon
+# A Vanilla JavaScript Sandbox
